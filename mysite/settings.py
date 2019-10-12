@@ -25,7 +25,7 @@ SECRET_KEY = 'a5#0d%urrj*_=(1_^3&fiq+*jm9dd*z(gor)e@impv)#soisus'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mcdownells.herokuapp.com']
 
 # Application definition
 SITE_ID = 2
